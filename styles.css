@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+form{
+	background-color:skyblue;
+    padding:20px;
+	text-align:start;
+	
+}
+.name{
+	color:red;
+}
